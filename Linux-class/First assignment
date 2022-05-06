@@ -1,0 +1,52 @@
+Question:
+Explain the Linux directives in your own words.
+
+
+# The root directory- /:
+Just like C:\ in windows, \ is the beginning/start of all the direc tories in Linux.
+
+# Essential user binaries- \bin:
+The \bin directory is used to store important system programs and utilities.
+
+# \boot:
+The \boot directory contains files essential for booting the system eg GRUB boot loader's files and Linux kernels.
+
+# Historical Mount Point for CD-ROMs- /cdrom:
+It's a temporary location for CD-ROMs inserted into the system.
+
+# Device files- \dev:
+It contains a number of special files that represent devices, they aren't actual files but appear as files. It also contains virtual devices that aren't related to hardware.
+
+# Configuration files- \etc:
+It contains configuration files which can be edited in a text editor.
+
+# Home folders- \home:
+It contains the home folder for a user, containing the user's important files.
+
+# \lib:
+It contains libraries needed by the binaries.
+
+# \lost+found:
+It tries to recover as much files as possible lost when the system crashes, during reboot.
+
+# \media:
+It's the location where removable media devices are mounted.
+
+# \mnt:
+It's where files undergoing usage are mounted.
+
+# \opt:
+It contains subdirectories for optional software packages. Commonly used by proprietary softwares.
+
+# \proc:
+ It contains special files that represent system and process information.
+
+# \root:
+It's like the \ directory but 
+# \run:
+# \sbin:
+# \selinux:
+# \srv:
+# \tmp:
+# \usr:
+# \var:
