@@ -45,14 +45,16 @@ It contains subdirectories for optional software packages. Commonly used by prop
 It's like the \ directory but for the \usr directory.
 
 # \run:
-Running apps are stored here.
+Temporary running apps are stored here.
 
 # \sbin:
-Binaries directory for 
+Binaries directory for the root user.
 
 # \selinux:
+Provides security.
 
 # \srv:
+Provides data for services in the system.
 
 # \tmp:
 Temporary files are stored here.
@@ -61,3 +63,4 @@ Temporary files are stored here.
 This is the user directory, like the user directory on windows.
 
 # \var:
+It is a directory containing writable files.
