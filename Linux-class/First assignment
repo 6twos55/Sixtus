@@ -42,11 +42,22 @@ It contains subdirectories for optional software packages. Commonly used by prop
  It contains special files that represent system and process information.
 
 # \root:
-It's like the \ directory but 
+It's like the \ directory but for the \usr directory.
+
 # \run:
+Running apps are stored here.
+
 # \sbin:
+Binaries directory for 
+
 # \selinux:
+
 # \srv:
+
 # \tmp:
+Temporary files are stored here.
+
 # \usr:
+This is the user directory, like the user directory on windows.
+
 # \var:
