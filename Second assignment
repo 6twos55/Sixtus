@@ -1,7 +1,7 @@
 #Hard links and symbolic links 
 
 ##Hard links
-Hard links to a file point to the location of the file.
+Hard links to a file point to the location of the file or the inode of that file.
 
 ###Symbolic links
 Symbolic links to a file points to the fine itself.
